@@ -1,3 +1,5 @@
+# an animation of a double pendulum - a simple chaotic system
+# adapted from one of examples in the documentation of matplotlib
 from numpy import sin, cos
 import numpy as np
 import matplotlib.pyplot as plt
